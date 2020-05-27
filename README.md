@@ -1,4 +1,4 @@
-# lista_cursos
+# lista_cartoes_credito
 
 A new Flutter project.
 
